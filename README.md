@@ -1,3 +1,3 @@
 # TriviaGame
 
-Click the correct answer Find the Capital of a Country
+Click to find the Capital of a Country
